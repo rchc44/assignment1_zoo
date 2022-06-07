@@ -1,11 +1,12 @@
 body {
-  font-family: Courier New;
+  font-family: monospace;
+  color: floralwhite;
   background-color: #800000;
   text-align: center;
 }
 
 img {
   height: 80%;
-	width: auto;
+	width: auto
 
 }
